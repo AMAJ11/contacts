@@ -87,26 +87,4 @@
       "groupId": "4"
     }
   ],
-  "groups": [
-    {
-      "title": "friend",
-      "value": "1",
-      "id": "1"
-    },
-    {
-      "title": "work",
-      "value": "2",
-      "id": "2"
-    },
-    {
-      "title": "coulege",
-      "value": "3",
-      "id": "3"
-    },
-    {
-      "title": "family",
-      "value": "4",
-      "id": "4"
-    }
-  ]
 }
